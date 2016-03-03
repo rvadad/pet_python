@@ -1,0 +1,27 @@
+Python 2.2.1 (#34, Apr  9 2002, 19:34:33) [MSC 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license" for more information.
+IDLE 0.8 -- press F1 for help
+>>> 1
+1
+>>> x=1
+>>> sys.last
+Traceback (most recent call last):
+  File "<pyshell#2>", line 1, in ?
+    sys.last
+NameError: name 'sys' is not defined
+>>> baseline
+Traceback (most recent call last):
+  File "<pyshell#3>", line 1, in ?
+    baseline
+NameError: name 'baseline' is not defined
+>>> bottom
+Traceback (most recent call last):
+  File "<pyshell#4>", line 1, in ?
+    bottom
+NameError: name 'bottom' is not defined
+>>> last
+Traceback (most recent call last):
+  File "<pyshell#5>", line 1, in ?
+    last
+NameError: name 'last' is not defined
+>>> 
