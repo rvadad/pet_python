@@ -336,23 +336,4 @@ NameError: name 'setfirstweekday' is not defined
 [DEBUG ON]
 >>> 
 [DEBUG OFF]
->>> def inside(a,b):
-    stop=False
-    while not stop:
-        if a==0 or b==0:
-            return True
-        elif a%3==1 and b%3==1:
-            return stop
- 
-        a=a/3
-        b=b/3
- 
-
-def carpet(n):
-    for i in range(pow(3,n)):
-        for j in range(pow(3,n)):
-            if inside(i,j):
-                print("*"),
-            else:
-                print(" "),
-        print(" ")
+>>> 
