@@ -1,0 +1,3 @@
+# pet_python
+For the longest time I have had a standing tradition of downloading the latest Python IDE that I am using onto any new computer of mine and then I begin a file named "daves_pet_python.py" and this is where I just randomly experiment with some python coding for the simple thrill of it. Yes, my pet is a piece of software and your point?
+<br><img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjMzYXCmqTLAhXMeT4KHR6PD3gQjhwIBQ&url=https%3A%2F%2Fwww.devbattles.com%2Fen%2Fsand%2Fpost-345-Making%2BGIFs%2BFrom%2BVideo%2BFiles%2BWith%2BPython&psig=AFQjCNG9Ye5byZN62XBFPX5YCOQDHeCw1w&ust=1457083802081278">
